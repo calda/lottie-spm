@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "lottie-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/calda/lottie-spm.git",
+      "state" : {
+        "revision" : "e4438935b7bcc28930b2376aec17a525c15a5747",
+        "version" : "4.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
